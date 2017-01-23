@@ -9,3 +9,6 @@ Here is how it works:
 
 Click on the link below to get some more instructions on it:
 [Cryptography demo] (https://github.com/aramzham/Cryptography/tree/master/Cryptologie)
+
+# Keywords
+C# 6.0, .Net Framework 4.6
