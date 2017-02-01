@@ -83,8 +83,11 @@ namespace Test
             //Console.ReadLine();
             #endregion
 
+            var filePath = @"C:\Users\HP\Desktop\emails.txt";
             var fo = new FileOriginality();
-            Console.WriteLine(fo.GetHMACSHA256(@"C:\Users\HP\Desktop\emails.txt"));
+            Console.WriteLine(fo.GetSHA256(filePath));
+            Console.WriteLine(new string('-', 40));
+            Console.WriteLine($"Was the file changed: {fo.IsOriginal(filePath)}");
 
             Console.ReadKey();
         }
