@@ -1,6 +1,6 @@
 # Cryptography
 
-This a cryptography example on how a sample text can be encrypted and decrypted securely.
+This a cryptography example on how a sample text can be encrypted and decrypted securely using `DesEncryption` class.
 The app can be used on numerous purposes (defence, message encryption etc.)
 
 Here is how it works:
