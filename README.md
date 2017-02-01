@@ -3,7 +3,7 @@
 This a cryptography example on how a sample text can be encrypted and decrypted securely using `DesEncryption` class.
 The app can be used on numerous purposes (defence, message encryption etc.).
 
-Cryptography is also used to check if the file is the original one or it has been changed in the process.
+Cryptography is also used to check if the file is the **original** one or it has been changed in the process.
 Take a look how it works by following [link] (https://github.com/aramzham/Cryptography/tree/master/Cryptologie/Originality).
 
 A little demonstration of cryptography on Windows Forms:
