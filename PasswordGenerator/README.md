@@ -16,12 +16,12 @@ e) var p4 = new Password(PasswordOptions.OnlyAlphabet); // finally, you can just
 ```
 
 As a choice, you can run the windows form application:
-![1](https://cloud.githubusercontent.com/assets/22852258/21854035/b6acec94-d832-11e6-8ca0-a15a96c58750.jpg)
+<img width="625" alt="ce222997c6f2cd1336b9add511bb8212" src="https://cloud.githubusercontent.com/assets/25085025/22942677/e9c78aa8-f303-11e6-9f9d-dc84fa6d866e.png">
 
 #### 1. Choose the password option you want
 #### 2. Select the desired password length
 #### 3. Click Generate button
 
-![2](https://cloud.githubusercontent.com/assets/22852258/21854334/c6df5614-d833-11e6-9c4d-b6a45ac7e6da.jpg)
+<img width="630" alt="35105a4b787802eeb8e974b1974da59b" src="https://cloud.githubusercontent.com/assets/25085025/22942697/fa02f92a-f303-11e6-8e7a-baf1359674f2.png">
 
 #### 4. Hit the "Copy to clipboard" button and paste it in your password storage
