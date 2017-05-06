@@ -8,7 +8,7 @@ Take a look how it works by following [link](https://github.com/aramzham/Cryptog
 
 A little demonstration of cryptography on Windows Forms:
 
-![gif](https://cloud.githubusercontent.com/assets/25085025/22220561/9764ef04-e1c8-11e6-99ca-b165e8e67582.gif)
+<img src="https://cloud.githubusercontent.com/assets/25085025/22220561/9764ef04-e1c8-11e6-99ca-b165e8e67582.gif" title="dungle" alt="chka"/>
 
 The elegant app has libraries that allow you to make your encryption using `DESCryptoServiceProvider` or `HMAC` with their numerous specificities.
 
