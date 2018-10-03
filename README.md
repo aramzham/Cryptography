@@ -16,7 +16,7 @@ Click on the link below to get some more instructions on it:
 [Cryptography demo](https://github.com/aramzham/Cryptography/tree/master/Cryptologie)
 
 # Keywords
-<ul>
+<ol style="list-style-type:armenian;">
   <li>C# 6.0</li>
   <li>.Net Framework 4.6</li>
-  </ul>
+</ol>
